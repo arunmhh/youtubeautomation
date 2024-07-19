@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "youtubeautomation",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n2^5\n\n[1] 32\n\n\n\nlog2(70)\n\n[1] 6.129283"
   },
   {
     "objectID": "about.html",
