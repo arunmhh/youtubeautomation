@@ -19,3 +19,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 {r}
 log2(70)
 ```
+
+```{r}
+100^2
+```
