@@ -11,3 +11,7 @@ About this site
 ``` r
 Hello 
 ```
+
+```{r}
+2^50
+```
