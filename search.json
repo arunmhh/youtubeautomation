@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "youtubeautomation",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n2^5\n\n[1] 32\n\n\n{r}\nlog2(70)\n\n100^2\n\n[1] 10000"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n2^5\n\n[1] 32\n\n\n\nlog2(70)\n\n[1] 6.129283\n\n\n\n100^2\n\n[1] 10000"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nHello"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nHello \n\n2^50\n\n[1] 1.1259e+15"
   },
   {
     "objectID": "graph.html",
