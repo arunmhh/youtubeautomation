@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "youtubeautomation",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n2^5\n\n[1] 32\n\n\n\nlog2(70)\n\n[1] 6.129283\n\n\n\n100^2\n\n[1] 10000\n\n\n\n2+5-5/4+25/2\n\n[1] 18.25"
+  },
+  {
+    "objectID": "graph.html",
+    "href": "graph.html",
+    "title": "graph",
+    "section": "",
+    "text": "3*5\n\n[1] 15"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nHello \n\n2^50\n\n[1] 1.1259e+15"
+  }
+]
